@@ -51,3 +51,5 @@ public class TheMinimum3Numbers {
     }
 
 }
+**********************************************
+https://github.com/7amo2aa/getminimum-3numbers/blob/master/Get%20Minimum%203%20Numbers.txt
